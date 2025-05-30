@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Currículum Mirian Carrillo Panzo</title>
+</head>
+<body>
+  <h1>Mirian Carrillo Panzo</h1>
+  <p><strong>Correo:</strong> miriancarrillopanzo@gmail.com</p>
+  <p><strong>Dirección:</strong> Tehuacán, Puebla, México</p>
+
+  <h2>Perfil Profesional</h2>
+  <p>Estudiante de Ingeniería en Sistemas Computales</p>
+  <h2>Experiencia Laboral</h2>
+  <ul>
+    <li>Estadista – Ayuntamiento de Tehuacán (2024)</li>
+    
+  </ul>
+
+  <h2>Educación</h2>
+  <ul>
+    <li>Ingeniería en Sistemas Computacionales – Instituto Tecnológico de Tehuacán (En curso)</li>
+  </ul>
+
+  <h2>Habilidades</h2>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Inglés medio</li>
+    <li>Adaptabilidad</li>
+    <li>Trabajo en equipo</li>
+  </ul>
+</body>
+</html>
